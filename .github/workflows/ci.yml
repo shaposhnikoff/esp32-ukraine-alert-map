@@ -31,4 +31,9 @@ jobs:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
       - name: Exact-board firmware build without private credentials
         shell: bash
-        run: . "$IDF_PATH/export.sh" && idf.py -B build-firmware build
+        run: |
+          . "$IDF_PATH/export.sh"
+          # The image bundles 2.4.2, which can resolve a second LVGL version.
+          python -m pip install --disable-pip-version-check 'idf-component-manager==2.5.2'
+          idf.py -B build-firmware build
+          git diff --exit-code -- dependencies.lock
