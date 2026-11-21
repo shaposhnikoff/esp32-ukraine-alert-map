@@ -1,0 +1,21 @@
+Ukraine Alerts firmware for Waveshare ESP32-S3-Touch-LCD-7B
+=========================================================
+
+This public build has no Wi-Fi credentials or OTA endpoint. After flashing, it
+shows the interface and reports that Wi-Fi is unconfigured. For live monitoring,
+build a private image as described in the project README.
+
+1. Extract the artifact, then open a terminal in the extracted directory.
+2. Verify the files:
+     Linux:  sha256sum -c SHA256SUMS
+     macOS:  shasum -a 256 -c SHA256SUMS
+3. Activate ESP-IDF 5.5.2 so its esptool is available. Connect the board through
+   USB TO UART with the board's UART switch set to UART1.
+4. Replace YOUR_SERIAL_PORT with your actual serial port, then run:
+     python -m esptool --chip esp32s3 --port YOUR_SERIAL_PORT write_flash @flash_args
+
+The command writes the bootloader, partition table, application and initial OTA
+data. Initial OTA data selects the first application slot. Keep all files and
+their relative paths as extracted.
+
+Project: https://github.com/shaposhnikoff/ESP32_S3_Alerts_map

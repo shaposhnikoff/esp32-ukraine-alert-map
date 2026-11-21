@@ -104,6 +104,17 @@ Do not run `erase-flash` as routine troubleshooting. See
 [hardware compatibility](docs/hardware-compatibility.md) for UART selection and
 the status of physical verification.
 
+## Download a public firmware build
+
+Sign in to GitHub, open a successful `main` run of [Build and test](https://github.com/shaposhnikoff/ESP32_S3_Alerts_map/actions/workflows/ci.yml),
+and download `ukraine-alerts-esp32s3-<commit>` from **Artifacts**. The archive
+contains the application, bootloader, partition table, initial OTA data, flash
+arguments, SHA-256 checksums and flashing instructions.
+
+The public image has no Wi-Fi credentials or OTA endpoint. It can boot and
+display the interface. For live monitoring, build a private image using
+[build-time configuration](#build-time-configuration).
+
 ## Desktop simulator
 
 Requirements: CMake 3.24+, a C++17 compiler, SDL2, and libcurl.
