@@ -2,6 +2,23 @@
 
 **[Download firmware v0.1.0 (ZIP)](https://github.com/shaposhnikoff/ESP32_S3_Alerts_map/releases/download/v0.1.0/ukraine-alerts-esp32s3-v0.1.0.zip)**
 
+**Quick flash from the ZIP (macOS or Linux)**
+
+Extract the ZIP. Connect the board through **USB TO UART** and set its switch
+to **UART1**. Open a terminal in the extracted folder and replace
+`YOUR_SERIAL_PORT` with your board's port, such as `/dev/cu.usbmodem1234` or
+`/dev/ttyUSB0`.
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install esptool==4.11.0
+python -m esptool --chip esp32s3 --port YOUR_SERIAL_PORT write_flash @flash_args
+```
+
+The ZIP contains all the firmware files. If the board fails to connect,
+see [UART setup and BOOT/RESET instructions](docs/hardware-compatibility.md#uart-connection).
+
 # THANK YOU, TRYVOHA.ONLINE!
 
 **THIS APPLICATION USES FREE ALERT DATA PROVIDED BY [TRYVOHA.ONLINE](https://tryvoha.online/). THANK YOU FOR MAKING THIS SERVICE AVAILABLE.**
