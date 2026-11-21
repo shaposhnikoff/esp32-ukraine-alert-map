@@ -1,0 +1,12 @@
+{
+  "wifi": {"ssid": "", "password": ""},
+  "primary_url": "https://tryvoha.online/api/v1/alerts",
+  "reserve_url": "https://siren.pp.ua/api/v3/alerts",
+  "poll_seconds": 60,
+  "stale_seconds": 180,
+  "timeout_seconds": 8,
+  "timezone": "EET-2EEST,M3.5.0/3,M10.5.0/4",
+  "brightness": 75,
+  "demo": true,
+  "ota_url": ""
+}

@@ -1,0 +1,847 @@
+{
+  "source": "https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09/releaseData/gbHumanitarian/UKR/ADM2/geoBoundaries-UKR-ADM2_simplified.geojson",
+  "directory": "https://tryvoha.online/api/v1/regions",
+  "sha256": "a247387e340c9a56fd11b5e7880238cf69a4b587a63e6080e4bf22fbb3a9df72",
+  "directory_sha256": "b8398276cbea38cc040c442c10bfeb2e19dfaf2a3322fc7f77f21bd70f9e8880",
+  "hierarchy": "https://siren.pp.ua/api/v3/regions",
+  "hierarchy_sha256": "0826d64de506bc0037add23df1108477ca99ee589937984ee006b2254cb6c75d",
+  "license": "CC BY 3.0 IGO",
+  "attribution": "State Scientific Production Enterprise Kartographia / OCHA HDX; distributed by geoBoundaries",
+  "source_dataset": "https://data.humdata.org/dataset/cod-ab-ukr",
+  "boundary_year": 2022,
+  "source_features": 139,
+  "areas": [
+    {
+      "slug": "unsupported-22097711B57509051638720",
+      "name": "Bakhchysaraiskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B13302951022231",
+      "name": "Bilohirskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B73657424691094",
+      "name": "Dzhankoiskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B84451678573744",
+      "name": "Yevpatoriiskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B47200263158981",
+      "name": "Kerchynskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B98776447047182",
+      "name": "Kurmanskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B45820000766767",
+      "name": "Perekopskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B78464626697108",
+      "name": "Simferopolskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B79933308021039",
+      "name": "Feodosiiskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B78371574799870",
+      "name": "Yaltynskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "vinnickii-raion",
+      "name": "Вінницький район",
+      "parent": "vinnicka-oblast",
+      "home": false
+    },
+    {
+      "slug": "gaisinskii-raion",
+      "name": "Гайсинський район",
+      "parent": "vinnicka-oblast",
+      "home": false
+    },
+    {
+      "slug": "zmerinskii-raion",
+      "name": "Жмеринський район",
+      "parent": "vinnicka-oblast",
+      "home": false
+    },
+    {
+      "slug": "mogiliv-podilskii-raion",
+      "name": "Могилів-Подільський район",
+      "parent": "vinnicka-oblast",
+      "home": false
+    },
+    {
+      "slug": "tulcinskii-raion",
+      "name": "Тульчинський район",
+      "parent": "vinnicka-oblast",
+      "home": false
+    },
+    {
+      "slug": "xmilnickii-raion",
+      "name": "Хмільницький район",
+      "parent": "vinnicka-oblast",
+      "home": false
+    },
+    {
+      "slug": "volodimir-volinskii-raion",
+      "name": "Володимир-Волинський район",
+      "parent": "volinska-oblast",
+      "home": false
+    },
+    {
+      "slug": "kamin-kasirskii-raion",
+      "name": "Камінь-Каширський район",
+      "parent": "volinska-oblast",
+      "home": false
+    },
+    {
+      "slug": "kovelskii-raion",
+      "name": "Ковельський район",
+      "parent": "volinska-oblast",
+      "home": false
+    },
+    {
+      "slug": "luckii-raion",
+      "name": "Луцький район",
+      "parent": "volinska-oblast",
+      "home": false
+    },
+    {
+      "slug": "dniprovskii-raion",
+      "name": "Дніпровський район",
+      "parent": "dnipropetrovska",
+      "home": false
+    },
+    {
+      "slug": "kamianskii-raion",
+      "name": "Кам’янський район",
+      "parent": "dnipropetrovska",
+      "home": false
+    },
+    {
+      "slug": "krivorizkii-raion",
+      "name": "Криворізький район",
+      "parent": "dnipropetrovska",
+      "home": false
+    },
+    {
+      "slug": "nikopolskii-raion",
+      "name": "Нікопольський район",
+      "parent": "dnipropetrovska",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B3683889208329",
+      "name": "Novomoskovskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "pavlogradskii-raion",
+      "name": "Павлоградський район",
+      "parent": "dnipropetrovska",
+      "home": false
+    },
+    {
+      "slug": "sinelnikivskii-raion",
+      "name": "Синельниківський район",
+      "parent": "dnipropetrovska",
+      "home": false
+    },
+    {
+      "slug": "baxmutskii-raion",
+      "name": "Бахмутський район",
+      "parent": "donecka-oblast",
+      "home": false
+    },
+    {
+      "slug": "volnovaskii-raion",
+      "name": "Волноваський район",
+      "parent": "donecka-oblast",
+      "home": false
+    },
+    {
+      "slug": "gorlivskii-raion",
+      "name": "Горлівський район",
+      "parent": "donecka-oblast",
+      "home": false
+    },
+    {
+      "slug": "doneckii-raion",
+      "name": "Донецький район",
+      "parent": "donecka-oblast",
+      "home": false
+    },
+    {
+      "slug": "kalmiuskii-raion",
+      "name": "Кальміуський район",
+      "parent": "donecka-oblast",
+      "home": false
+    },
+    {
+      "slug": "kramatorskii-raion",
+      "name": "Краматорський район",
+      "parent": "donecka-oblast",
+      "home": false
+    },
+    {
+      "slug": "mariupolskii-raion",
+      "name": "Маріупольський район",
+      "parent": "donecka-oblast",
+      "home": false
+    },
+    {
+      "slug": "pokrovskii-raion",
+      "name": "Покровський район",
+      "parent": "donecka-oblast",
+      "home": false
+    },
+    {
+      "slug": "berdicivskii-raion",
+      "name": "Бердичівський район",
+      "parent": "zitomirska-oblast",
+      "home": false
+    },
+    {
+      "slug": "zitomirskii-raion",
+      "name": "Житомирський район",
+      "parent": "zitomirska-oblast",
+      "home": false
+    },
+    {
+      "slug": "korostenskii-raion",
+      "name": "Коростенський район",
+      "parent": "zitomirska-oblast",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B96068727742804",
+      "name": "Novohrad-Volynskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "beregivskii-raion",
+      "name": "Берегівський район",
+      "parent": "zakarpatska-oblast",
+      "home": false
+    },
+    {
+      "slug": "mukacivskii-raion",
+      "name": "Мукачівський район",
+      "parent": "zakarpatska-oblast",
+      "home": false
+    },
+    {
+      "slug": "raxivskii-raion",
+      "name": "Рахівський район",
+      "parent": "zakarpatska-oblast",
+      "home": false
+    },
+    {
+      "slug": "tiacivskii-raion",
+      "name": "Тячівський район",
+      "parent": "zakarpatska-oblast",
+      "home": false
+    },
+    {
+      "slug": "uzgorodskii-raion",
+      "name": "Ужгородський район",
+      "parent": "zakarpatska-oblast",
+      "home": false
+    },
+    {
+      "slug": "xustskii-raion",
+      "name": "Хустський район",
+      "parent": "zakarpatska-oblast",
+      "home": false
+    },
+    {
+      "slug": "berdianskii-raion",
+      "name": "Бердянський район",
+      "parent": "zaporizka-oblast",
+      "home": false
+    },
+    {
+      "slug": "vasilivskii-raion",
+      "name": "Василівський район",
+      "parent": "zaporizka-oblast",
+      "home": false
+    },
+    {
+      "slug": "zaporizkii-raion",
+      "name": "Запорізький район",
+      "parent": "zaporizka-oblast",
+      "home": false
+    },
+    {
+      "slug": "melitopolskii-raion",
+      "name": "Мелітопольський район",
+      "parent": "zaporizka-oblast",
+      "home": false
+    },
+    {
+      "slug": "pologivskii-raion",
+      "name": "Пологівський район",
+      "parent": "zaporizka-oblast",
+      "home": false
+    },
+    {
+      "slug": "verxovinskii-raion",
+      "name": "Верховинський район",
+      "parent": "ivano-frankivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "ivano-frankivskii-raion",
+      "name": "Івано-Франківський район",
+      "parent": "ivano-frankivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "kaluskii-raion",
+      "name": "Калуський район",
+      "parent": "ivano-frankivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "kolomiiskii-raion",
+      "name": "Коломийський район",
+      "parent": "ivano-frankivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "kosivskii-raion",
+      "name": "Косівський район",
+      "parent": "ivano-frankivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "nadvirnianskii-raion",
+      "name": "Надвірнянський район",
+      "parent": "ivano-frankivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "bilocerkivskii-raion",
+      "name": "Білоцерківський район",
+      "parent": "kyivska",
+      "home": true
+    },
+    {
+      "slug": "borispilskii-raion",
+      "name": "Бориспільський район",
+      "parent": "kyivska",
+      "home": true
+    },
+    {
+      "slug": "brovarskii-raion",
+      "name": "Броварський район",
+      "parent": "kyivska",
+      "home": true
+    },
+    {
+      "slug": "bucanskii-raion",
+      "name": "Бучанський район",
+      "parent": "kyivska",
+      "home": true
+    },
+    {
+      "slug": "visgorodskii-raion",
+      "name": "Вишгородський район",
+      "parent": "kyivska",
+      "home": true
+    },
+    {
+      "slug": "obuxivskii-raion",
+      "name": "Обухівський район",
+      "parent": "kyivska",
+      "home": true
+    },
+    {
+      "slug": "fastivskii-raion",
+      "name": "Фастівський район",
+      "parent": "kyivska",
+      "home": true
+    },
+    {
+      "slug": "golovanivskii-raion",
+      "name": "Голованівський район",
+      "parent": "kirovogradska-oblast",
+      "home": false
+    },
+    {
+      "slug": "kropivnickii-raion",
+      "name": "Кропивницький район",
+      "parent": "kirovogradska-oblast",
+      "home": false
+    },
+    {
+      "slug": "novoukrayinskii-raion",
+      "name": "Новоукраїнський район",
+      "parent": "kirovogradska-oblast",
+      "home": false
+    },
+    {
+      "slug": "oleksandriiskii-raion",
+      "name": "Олександрійський район",
+      "parent": "kirovogradska-oblast",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B73083160929140",
+      "name": "Alchevskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B68059533687998",
+      "name": "Dovzhanskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B53601754696899",
+      "name": "Luhanskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B34124994132375",
+      "name": "Rovenkivskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B77273801314169",
+      "name": "Svativskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B7670173734536",
+      "name": "Sievierodonetskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B56969234546212",
+      "name": "Starobilskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "unsupported-22097711B68855027767264",
+      "name": "Shchastynskyi",
+      "parent": "",
+      "home": false
+    },
+    {
+      "slug": "drogobickii-raion",
+      "name": "Дрогобицький район",
+      "parent": "lvivska",
+      "home": false
+    },
+    {
+      "slug": "zolocivskii-raion",
+      "name": "Золочівський район",
+      "parent": "lvivska",
+      "home": false
+    },
+    {
+      "slug": "lvivskii-raion",
+      "name": "Львівський район",
+      "parent": "lvivska",
+      "home": false
+    },
+    {
+      "slug": "sambirskii-raion",
+      "name": "Самбірський район",
+      "parent": "lvivska",
+      "home": false
+    },
+    {
+      "slug": "striiskii-raion",
+      "name": "Стрийський район",
+      "parent": "lvivska",
+      "home": false
+    },
+    {
+      "slug": "septickii-raion",
+      "name": "Шептицький район",
+      "parent": "lvivska",
+      "home": false
+    },
+    {
+      "slug": "iavorivskii-raion",
+      "name": "Яворівський район",
+      "parent": "lvivska",
+      "home": false
+    },
+    {
+      "slug": "bastanskii-raion",
+      "name": "Баштанський район",
+      "parent": "mikolayivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "voznesenskii-raion",
+      "name": "Вознесенський район",
+      "parent": "mikolayivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "mikolayivskii-raion",
+      "name": "Миколаївський район",
+      "parent": "mikolayivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "pervomaiskii-raion",
+      "name": "Первомайський район",
+      "parent": "mikolayivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "berezivskii-raion",
+      "name": "Березівський район",
+      "parent": "odeska",
+      "home": false
+    },
+    {
+      "slug": "bilgorod-dnistrovskii-raion",
+      "name": "Білгород-Дністровський район",
+      "parent": "odeska",
+      "home": false
+    },
+    {
+      "slug": "bolgradskii-raion",
+      "name": "Болградський район",
+      "parent": "odeska",
+      "home": false
+    },
+    {
+      "slug": "izmayilskii-raion",
+      "name": "Ізмаїльський район",
+      "parent": "odeska",
+      "home": false
+    },
+    {
+      "slug": "odeskii-raion",
+      "name": "Одеський район",
+      "parent": "odeska",
+      "home": false
+    },
+    {
+      "slug": "podilskii-raion",
+      "name": "Подільський район",
+      "parent": "odeska",
+      "home": false
+    },
+    {
+      "slug": "rozdilnianskii-raion",
+      "name": "Роздільнянський район",
+      "parent": "odeska",
+      "home": false
+    },
+    {
+      "slug": "kremencuckii-raion",
+      "name": "Кременчуцький район",
+      "parent": "poltavska-oblast",
+      "home": false
+    },
+    {
+      "slug": "lubenskii-raion",
+      "name": "Лубенський район",
+      "parent": "poltavska-oblast",
+      "home": false
+    },
+    {
+      "slug": "mirgorodskii-raion",
+      "name": "Миргородський район",
+      "parent": "poltavska-oblast",
+      "home": false
+    },
+    {
+      "slug": "poltavskii-raion",
+      "name": "Полтавський район",
+      "parent": "poltavska-oblast",
+      "home": false
+    },
+    {
+      "slug": "varaskii-raion",
+      "name": "Вараський район",
+      "parent": "rivnenska-oblast",
+      "home": false
+    },
+    {
+      "slug": "dubenskii-raion",
+      "name": "Дубенський район",
+      "parent": "rivnenska-oblast",
+      "home": false
+    },
+    {
+      "slug": "rivnenskii-raion",
+      "name": "Рівненський район",
+      "parent": "rivnenska-oblast",
+      "home": false
+    },
+    {
+      "slug": "sarnenskii-raion",
+      "name": "Сарненський район",
+      "parent": "rivnenska-oblast",
+      "home": false
+    },
+    {
+      "slug": "konotopskii-raion",
+      "name": "Конотопський район",
+      "parent": "sumska-oblast",
+      "home": false
+    },
+    {
+      "slug": "oxtirskii-raion",
+      "name": "Охтирський район",
+      "parent": "sumska-oblast",
+      "home": false
+    },
+    {
+      "slug": "romenskii-raion",
+      "name": "Роменський район",
+      "parent": "sumska-oblast",
+      "home": false
+    },
+    {
+      "slug": "sumskii-raion",
+      "name": "Сумський район",
+      "parent": "sumska-oblast",
+      "home": false
+    },
+    {
+      "slug": "sostkinskii-raion",
+      "name": "Шосткинський район",
+      "parent": "sumska-oblast",
+      "home": false
+    },
+    {
+      "slug": "kremeneckii-raion",
+      "name": "Кременецький район",
+      "parent": "ternopilska-oblast",
+      "home": false
+    },
+    {
+      "slug": "ternopilskii-raion",
+      "name": "Тернопільський район",
+      "parent": "ternopilska-oblast",
+      "home": false
+    },
+    {
+      "slug": "cortkivskii-raion",
+      "name": "Чортківський район",
+      "parent": "ternopilska-oblast",
+      "home": false
+    },
+    {
+      "slug": "bogoduxivskii-raion",
+      "name": "Богодухівський район",
+      "parent": "xarkivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "iziumskii-raion",
+      "name": "Ізюмський район",
+      "parent": "xarkivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "krasnogradskii-raion",
+      "name": "Красноградський район",
+      "parent": "xarkivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "kupianskii-raion",
+      "name": "Куп’янський район",
+      "parent": "xarkivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "lozivskii-raion",
+      "name": "Лозівський район",
+      "parent": "xarkivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "xarkivskii-raion",
+      "name": "Харківський район",
+      "parent": "xarkivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "cuguyivskii-raion",
+      "name": "Чугуївський район",
+      "parent": "xarkivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "berislavskii-raion",
+      "name": "Бериславський район",
+      "parent": "xersonska-oblast",
+      "home": false
+    },
+    {
+      "slug": "geniceskii-raion",
+      "name": "Генічеський район",
+      "parent": "xersonska-oblast",
+      "home": false
+    },
+    {
+      "slug": "kaxovskii-raion",
+      "name": "Каховський район",
+      "parent": "xersonska-oblast",
+      "home": false
+    },
+    {
+      "slug": "skadovskii-raion",
+      "name": "Скадовський район",
+      "parent": "xersonska-oblast",
+      "home": false
+    },
+    {
+      "slug": "xersonskii-raion",
+      "name": "Херсонський район",
+      "parent": "xersonska-oblast",
+      "home": false
+    },
+    {
+      "slug": "kamianec-podilskii-raion",
+      "name": "Кам’янець-Подільський район",
+      "parent": "xmelnycka-oblast",
+      "home": false
+    },
+    {
+      "slug": "xmelnickii-raion",
+      "name": "Хмельницький район",
+      "parent": "xmelnycka-oblast",
+      "home": false
+    },
+    {
+      "slug": "sepetivskii-raion",
+      "name": "Шепетівський район",
+      "parent": "xmelnycka-oblast",
+      "home": false
+    },
+    {
+      "slug": "zvenigorodskii-raion",
+      "name": "Звенигородський район",
+      "parent": "cerkaska-oblast",
+      "home": false
+    },
+    {
+      "slug": "zolotoniskii-raion",
+      "name": "Золотоніський район",
+      "parent": "cerkaska-oblast",
+      "home": false
+    },
+    {
+      "slug": "umanskii-raion",
+      "name": "Уманський район",
+      "parent": "cerkaska-oblast",
+      "home": false
+    },
+    {
+      "slug": "cerkaskii-raion",
+      "name": "Черкаський район",
+      "parent": "cerkaska-oblast",
+      "home": false
+    },
+    {
+      "slug": "viznickii-raion",
+      "name": "Вижницький район",
+      "parent": "cernivecka-oblast",
+      "home": false
+    },
+    {
+      "slug": "dnistrovskii-raion",
+      "name": "Дністровський район",
+      "parent": "cernivecka-oblast",
+      "home": false
+    },
+    {
+      "slug": "cerniveckii-raion",
+      "name": "Чернівецький район",
+      "parent": "cernivecka-oblast",
+      "home": false
+    },
+    {
+      "slug": "koriukivskii-raion",
+      "name": "Корюківський район",
+      "parent": "cernigivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "nizinskii-raion",
+      "name": "Ніжинський район",
+      "parent": "cernigivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "novgorod-siverskii-raion",
+      "name": "Новгород-Сіверський район",
+      "parent": "cernigivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "priluckii-raion",
+      "name": "Прилуцький район",
+      "parent": "cernigivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "cernigivskii-raion",
+      "name": "Чернігівський район",
+      "parent": "cernigivska-oblast",
+      "home": false
+    },
+    {
+      "slug": "kyiv",
+      "name": "м. Київ",
+      "parent": "",
+      "home": true
+    },
+    {
+      "slug": "unsupported-22097711B55202998529821",
+      "name": "Sevastopilska",
+      "parent": "",
+      "home": false
+    }
+  ],
+  "home_areas": 8,
+  "width": 700,
+  "height": 420,
+  "mask_bytes": 102732
+}

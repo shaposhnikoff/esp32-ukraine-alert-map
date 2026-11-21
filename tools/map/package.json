@@ -1,0 +1,22 @@
+{
+  "name": "alerts-map-assets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "bun generate.ts",
+    "check": "tsc --noEmit && oxlint --deny-warnings . && bun test"
+  },
+  "dependencies": {
+    "earcut": "3.2.4",
+    "ky": "2.2.0",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/bun": "1.4.5",
+    "@types/earcut": "3.0.0",
+    "oxlint": "1.94.0",
+    "oxfmt": "0.79.0",
+    "typescript": "7.0.2",
+    "lv_font_conv": "1.5.3"
+  }
+}
