@@ -35,5 +35,6 @@ jobs:
           . "$IDF_PATH/export.sh"
           # The image bundles 2.4.2, which can resolve a second LVGL version.
           python -m pip install --disable-pip-version-check 'idf-component-manager==2.5.2'
+          lock_checksum="$(sha256sum dependencies.lock)"
           idf.py -B build-firmware build
-          git diff --exit-code -- dependencies.lock
+          printf '%s\n' "$lock_checksum" | sha256sum --check
