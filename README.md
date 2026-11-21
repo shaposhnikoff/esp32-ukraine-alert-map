@@ -24,6 +24,15 @@ The desktop simulator rendered both 1024 × 600 screens using fictional demo dat
 
 ![Ukraine district map in demo mode](docs/screenshots/ukraine-demo.png)
 
+### On the Waveshare display
+
+These photos show the interface running on the ESP32-S3-Touch-LCD-7B. The
+background handwriting and a connection error were removed from the images.
+
+![Kyiv city and oblast map on the Waveshare display](docs/screenshots/kyiv-hardware.jpg)
+
+![Ukraine district map on the Waveshare display](docs/screenshots/ukraine-hardware.jpg)
+
 ## Interface
 
 - Startup opens **Kyiv city and Kyiv oblast**, with seven independent districts.
