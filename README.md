@@ -1,6 +1,6 @@
 # Ukraine Alerts: Kyiv and Kyiv Oblast
 
-**[Download firmware v0.1.0 (ZIP)](https://github.com/shaposhnikoff/ESP32_S3_Alerts_map/releases/download/v0.1.0/ukraine-alerts-esp32s3-v0.1.0.zip)**
+**[Download firmware v0.1.0 (ZIP)](https://github.com/shaposhnikoff/esp32-ukraine-alert-map/releases/download/v0.1.0/ukraine-alerts-esp32s3-v0.1.0.zip)**
 
 **Quick flash from the ZIP (macOS or Linux)**
 
@@ -125,7 +125,7 @@ the status of physical verification.
 
 ## Download a public firmware build
 
-Sign in to GitHub, open a successful `main` run of [Build and test](https://github.com/shaposhnikoff/ESP32_S3_Alerts_map/actions/workflows/ci.yml),
+Sign in to GitHub, open a successful `main` run of [Build and test](https://github.com/shaposhnikoff/esp32-ukraine-alert-map/actions/workflows/ci.yml),
 and download `ukraine-alerts-esp32s3-<commit>` from **Artifacts**. The archive
 contains the application, bootloader, partition table, initial OTA data, flash
 arguments, SHA-256 checksums and flashing instructions.

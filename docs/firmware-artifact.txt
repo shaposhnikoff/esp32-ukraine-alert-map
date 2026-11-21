@@ -18,4 +18,4 @@ The command writes the bootloader, partition table, application and initial OTA
 data. Initial OTA data selects the first application slot. Keep all files and
 their relative paths as extracted.
 
-Project: https://github.com/shaposhnikoff/ESP32_S3_Alerts_map
+Project: https://github.com/shaposhnikoff/esp32-ukraine-alert-map
