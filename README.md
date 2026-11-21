@@ -1,5 +1,7 @@
 # Ukraine Alerts: Kyiv and Kyiv Oblast
 
+**[Download firmware v0.1.0 (ZIP)](https://github.com/shaposhnikoff/ESP32_S3_Alerts_map/releases/download/v0.1.0/ukraine-alerts-esp32s3-v0.1.0.zip)**
+
 # THANK YOU, TRYVOHA.ONLINE!
 
 **THIS APPLICATION USES FREE ALERT DATA PROVIDED BY [TRYVOHA.ONLINE](https://tryvoha.online/). THANK YOU FOR MAKING THIS SERVICE AVAILABLE.**
@@ -9,8 +11,8 @@ screen and here, as required by its [API terms](https://tryvoha.online/api).
 UA Siren is a reserve source. Both share UkraineAlarm as an underlying alert
 source, so the reserve is not an independent warning system.
 
-A native LVGL application for **Waveshare ESP32-S3-Touch-LCD-7B**, with a desktop
-simulator that runs the same interface and alert model.
+A native LVGL application for **[Waveshare ESP32-S3-Touch-LCD-7B](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-7B)**,
+with a desktop simulator that runs the same interface and alert model.
 
 ## Screenshots
 
